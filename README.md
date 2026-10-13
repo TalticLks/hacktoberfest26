@@ -1,6 +1,7 @@
 # hacktoberfest26
 
 Low Hwee Miang
+
 ## What is version control?
 
 Version control is a system that records changes to a file or set of files over time so that you can recall specific versions later. It lets you see past edits, who made them, and go back to an earlier version if something goes wrong. It is also called source control or revision control.
@@ -13,3 +14,9 @@ Core ideas:
 - **Merge:** combining the changes from one branch into another.
 
 Source: https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control
+
+## Learning outcomes for the first session
+
+- Learn and apply version control concepts and skills
+- Start building and sharing your online portfolio
+- Collaborate with others online
